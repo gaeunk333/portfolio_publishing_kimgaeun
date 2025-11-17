@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'AritaDotumKR-Thin'; /*폰트 이름 지정*/
+    src: url(../fonts/AritaDotumKR-Thin.woff2) format('woff2');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'AritaDotumKR-Light'; /*폰트 이름 지정*/
+    src: url(../fonts/AritaDotumKR-Light.woff2) format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'AritaDotumKR-Medium'; /*폰트 이름 지정*/
+    src: url(../fonts/AritaDotumKR-Medium.woff2) format('woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'AritaDotumKR-SemiBold'; /*폰트 이름 지정*/
+    src: url(../fonts/AritaDotumKR-SemiBold.woff2) format('woff2');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'AritaDotumKR-Bold'; /*폰트 이름 지정*/
+    src: url(../fonts/AritaDotumKR-Bold.woff2) format('woff2');
+    font-weight: 700;
+}
